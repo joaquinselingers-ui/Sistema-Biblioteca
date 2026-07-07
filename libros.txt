@@ -1,0 +1,25 @@
+100;Python para Todos;Ana Garcia;5
+101;Algoritmos y Programacion;Juan Perez;3
+102;Base de Datos;Carlos Lopez;2
+103;Fisica II;Maria Rodriguez;0
+104;Calculo I;Roberto Diaz;4
+105;Calculo II;Roberto Diaz;2
+106;Algebra Lineal;Patricia Gomez;6
+107;Estructuras de Datos;Luis Fernandez;3
+108;Ingenieria de Software;Sergio Acosta;5
+109;Redes de Computadoras;Laura Acosta;4
+110;Sistemas Operativos;Miguel Rios;2
+111;Programacion en Python;Natalia Ruiz;7
+112;Programacion en C;Diego Luna;5
+113;Inteligencia Artificial;Carla Benitez;1
+114;Matematica Discreta;Julian Sosa;4
+115;Electronica Digital;Ricardo Torres;3
+116;Bases de Datos Avanzadas;Andrea Vega;2
+117;Arquitectura de Computadoras;Marcos Medina;6
+118;Seguridad Informatica;Paula Rojas;2
+119;Analisis Matematico I;Pedro Cabrera;8
+120;Analisis Matematico II;Pedro Cabrera;5
+205;Diminutos;Jorge Ayala;5
+500;Marvel;Milei;10
+203;mil maneras;Santino Garcia;50
+208;Harry Potter;Rowling;54
